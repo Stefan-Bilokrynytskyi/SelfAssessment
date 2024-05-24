@@ -85,9 +85,9 @@
   - Function expression u
   - Default parameters u
   - Functional object u
-  - `Function.prototype.call` u
+  - `Function.prototype.call` k
   - `Function.prototype.bind` u
-  - `Function.prototype.apply` u
+  - `Function.prototype.apply` k
   - `return` u
 - Data structures
   - `Array` u
@@ -95,26 +95,26 @@
   - `Set` u
   - `WeakMap` u
   - `WeakSet` u
-  - Typed arrays u
-  - Mixins u
+  - Typed arrays k
+  - Mixins k
   - `Object.assign` u
 - Standard classes and namespaces
-  - `Proxy` u
+  - `Proxy` k
   - `RegExp` u
   - `Date` u
   - `Math` u
-  - `Reflect` u
+  - `Reflect` h
   - `Error` u
-  - `Atomics` u
+  - `Atomics` k
   - `JSON` u
-  - `WeakRef` u
-  - `FinalizationRegistry` k
+  - `WeakRef` h
+  - `FinalizationRegistry` 
   - `Intl` u
   - `Promise` u
   - `console` u
   - Timers u
 - Infrastructure
-  - V8 u
+  - V8 k
   - Node.js u
   - npm u
   - prettier u
