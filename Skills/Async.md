@@ -8,16 +8,16 @@
   - Thread pool u
   - Pattern Reactor h
   - CAS operations h
-  - epoll h
-  - kqueue h
-  - Completion ports h
+  - epoll
+  - kqueue
+  - Completion ports
   - Event ports
   - libuv h
   - Race conditions h
-  - Dead locks u
-  - Live locks u
-  - Concurrent programming u
-  - Parallel programming u
+  - Dead locks h
+  - Live locks h
+  - Concurrent programming h
+  - Parallel programming k
   - Actor Model h
   - Thread u
   - Process u
@@ -27,8 +27,8 @@
   - Thenable u
   - Promise u
   - Async/await u
-  - Future u
-  - Deferred u
+  - Future 
+  - Deferred 
   - Sync generator u
   - Async Generator u
   - Async Iterator u
@@ -36,35 +36,35 @@
   - Coroutine u
   - Goroutine u
   - Signal u
-  - Stream u
-  - Chain of responsibility u
+  - Stream k
+  - Chain of responsibility k
   - Middleware u
-  - Locks u
+  - Locks h
 - Async adapters and utils
-  - callbackify u
+  - callbackify k
   - promisify u
-  - asyncify u
-  - Callbacks compose u
-  - Async compose u
+  - asyncify k
+  - Callbacks compose h
+  - Async compose h
 - Async abstractions interfaces
   - EventEmitter u
-  - Observable/Observer u
-  - Readable u
-  - Writable u
-  - Transform u
-  - Async Pool u
-  - Async Queue u
-  - Async Collector u 
+  - Observable/Observer k
+  - Readable h
+  - Writable h
+  - Transform 
+  - Async Pool k
+  - Async Queue k
+  - Async Collector k 
   - Semaphore u
   - Mutex u
-  - Spin Lock u
+  - Spin Lock
 - JavaScript & Node.js specific
   - Timers u
   - `setImmediate` u
   - `nextTick` u
-  - AbortController u
-  - AbortSignal u
-  - Promise unhandled rejection u
+  - AbortController k
+  - AbortSignal k
+  - Promise unhandled rejection h
   - Promise double resolve h
   - Atomics u
   - High resolution clock h
@@ -74,16 +74,16 @@
   - Error handling in async code u
   - Better stack traces with return await u
   - JSON streaming serialization u
-  - AsyncLocalStorage u
-  - AsyncResource u
+  - AsyncLocalStorage k
+  - AsyncResource 
 - Techniques
-  - Async.js library u
-  - RxJS library h
+  - Async.js library k
+  - RxJS library k
   - Promise.all u
   - Promise.allSettled u
   - Promise.race u
   - Promise.any u
-  - Web Locks API u
-  - IPC h
-  - Channel API h
-  - Revealing constructor h
+  - Web Locks API 
+  - IPC 
+  - Channel API 
+  - Revealing constructor 
