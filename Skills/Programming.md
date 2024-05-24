@@ -1,31 +1,31 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model u
-  - Modeling u
-  - Subject domain u
-  - Algorithmu
-  - Syntax u 
-  - Semantics г
-  - Abstraction г
-  - Paradigm u
-  - Programm u
-  - Programming paradigm u
-  - Programming language u
-  - Contract u
-  - Module u
-  - Library u
-  - Package u
-  - Component u
-  - Framework u
-  - Platform u
-  - Source code u
-  - Object code u
-  - Machine code u
-  - Microcode u
-  - Software engineering u
+  - Model
+  - Modeling
+  - Subject domain
+  - Algorithm e
+  - Syntax e
+  - Semantics e
+  - Abstraction e
+  - Paradigm e
+  - Programm e
+  - Programming paradigm e
+  - Programming language e
+  - Contract e
+  - Module e
+  - Library e
+  - Package e
+  - Component e
+  - Framework e
+  - Platform e
+  - Source code e
+  - Object code k
+  - Machine code k
+  - Microcode h
+  - Software engineering e
   - Decomposition u
-  - Control flow u
+  - Control flow k
   - Data flow u
   - Code reuse u
   - Defensive programming u
@@ -39,7 +39,7 @@
   - Scalar u
   - Literal u
   - Expression u
-  - Heap u
+  - Heap k
   - Function u
   - Procedure u
   - Method u
@@ -48,38 +48,38 @@
   - Event u
   - Type u
   - Flag u
-  - Lexical scope u
-  - Code block u
-  - Conditions u
-  - Loops u
+  - Lexical scope e
+  - Code block e
+  - Conditions e
+  - Loops e
   - Assignment u
   - Regular expression u
   - Interface u
-  - Namespaces u
+  - Namespaces k
   - Call stack u
   - Naming conventions u
   - Coding conventions u
-  - Camel case u
-  - Snake case u
-  - Kebab case u
-  - Trailing commas u
-  - Return early u
-  - Fail-fast u
+  - Camel case e
+  - Snake case e
+  - Kebab case e
+  - Trailing commas e
+  - Return early e
+  - Fail-fast
 - Types
   - Primitive types u
   - Reference types u
   - Type systems u
   - Strong typing u
   - Weak typing u
-  - Duck typing u
+  - Duck typing h
   - Static typing u
   - Dynamic typing u
   - Nominal typing u
-  - Structural typing u
+  - Structural typing
   - Explicit typing u
-  - Type inference u
-  - Covariance u
-  - Contravariance u
+  - Type inference
+  - Covariance
+  - Contravariance
 - Functions
   - Signature u
   - Argument u
@@ -101,9 +101,9 @@
   - Wrapper u
   - Functor u
   - Monad u
-  - Monoid u
+  - Monoid k
   - Generator u
-  - Coroutine u
+  - Coroutine h
 - Data structures
   - Array u
   - Structure u
@@ -115,8 +115,8 @@
   - Set u
   - Hash table u
   - Linked list u
-  - Doubly listu
-  - Unrolled list u
+  - Doubly list u
+  - Unrolled list k
   - Circular list u
   - Queue u
   - Stack u
@@ -129,33 +129,33 @@
   - Serialization u
   - String parsing u
   - JSON u
-  - JSON5 u
-  - YAML u
+  - JSON5 k
+  - YAML k
 - Networking
   - DNS u
-  - CDN u
+  - CDN k
   - CORS u
   - IPv4 u
-  - IPv6 u
-  - NAT u
+  - IPv6 k
+  - NAT h
   - URL u
-  - URN u
+  - URN h
   - URI u
 - Process and tools
   - Compiler u
   - Just-in-time compilation u
   - Ahead-of-time compilation u
-  - Transpiler u
+  - Transpiler k
   - Linter u 
   - Polyfill u
   - Interpreter u
-  - Linker u
-  - Dynamic linking u
-  - Static linking u
+  - Linker k
+  - Dynamic linking k
+  - Static linking k
   - Runtime u
   - Virtual machine u
-  - Register-based VM u
-  - Stack-based VM u
+  - Register-based VM h
+  - Stack-based VM h
   - Containerization u
   - Debugger u
   - Tracing u
@@ -168,72 +168,72 @@
   - Github u
   - Docker u
   - Kubernetes k
-  - GCC k
-  - LLVM k
+  - GCC h
+  - LLVM h
 - Antipatterns
-  - Magic numbers u
-  - Hard code u
-  - Soft code u
-  - Cryptic code u
-  - Improbability factor u
-  - Accidental complexity u
-  - Action at a distance u
-  - Spaghetti u
-  - Silver bullet u
-  - Not invented here u
-  - Dead code u
-  - Unreachable code u
-  - Duplicate code u
-  - Premature optimization u
-  - Micro-optimization u
+  - Magic numbers e
+  - Hard code e
+  - Soft code e
+  - Cryptic code h
+  - Improbability factor e
+  - Accidental complexity e
+  - Action at a distance
+  - Spaghetti e
+  - Silver bullet e
+  - Not invented here e
+  - Dead code e
+  - Unreachable code e
+  - Duplicate code e
+  - Premature optimization k
+  - Micro-optimization k
   - Nested loops u
-  - Long method/function/procedure u
-  - Long inheritance u
-  - Large class/file u
-  - Too many parameters u
-  - Pass-through parameters u
-  - Accumulate and fire u
-  - Use switch/case u
-  - Temporary field u
-  - Handle object as instances and hashes at the same time u
-  - Use fields instead of arguments u
-  - Data clump u
-  - Feature envy u
-  - Monkey patch u
-  - Yo-yo problem u
+  - Long method/function/procedure e
+  - Long inheritance k
+  - Large class/file e
+  - Too many parameters e
+  - Pass-through parameters e
+  - Accumulate and fire e
+  - Use switch/case e
+  - Temporary field e
+  - Handle object as instances and hashes at the same time k
+  - Use fields instead of arguments e
+  - Data clump e
+  - Feature envy e
+  - Monkey patch k
+  - Yo-yo problem k
 - Runtimes and virtual machines
   - Bytecode k
   - V8 u
-  - VJM k
-  - CLR k
-  - Mono k
+  - VJM h
+  - CLR h
+  - Mono h
 - Operating systems
-  - Interrupts h
-  - Drivers h
-  - Kernel h
+  - Interrupts u
+  - Drivers u
+  - Kernel u
   - Ring h
   - Virtual memory u
-  - File system u
+  - File system e
   - Linux u
   - Unix u
-  - BSD k
+  - BSD h
   - MacOS k
   - Windows u
-  - Real-time OS u
-  - Embedded OS u
+  - Real-time OS h
+  - Embedded OS h
 - Standards
-  - ASCII u
+  - ASCII e
   - Escape sequence u
-  - RFC h
+  - RFC k
   - IETF h
   - IANA h
   - IEEE h
-  - Base64 u
-  - ECMA u
-  - ICANN k
-  - ISO k
-  - MIME k
-  - OWASP k
-  - UTF-8 u
-  - W3C u
-  - ODMG k
+  - Base64 h
+  - ECMA e
+  - ICANN h
+  - ISO e
+  - MIME h
+  - OWASP h
+  - UTF-8 e
+  - W3C e
+  - ODMG h
