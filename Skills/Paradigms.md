@@ -65,26 +65,26 @@
   - Dependency inversion principle (DIP): 🖐️ used
 - Patterns
   - Singleton: 🙋 explained
-  - Factory Method: 🖐️ used
-  - Abstract Factory: 🖐️ used
-  - Adapter: 🎓 known
-  - Observer: 🖐️ used
-  - Strategy: 👂 heard
-  - Facade: 👂 heard
-  - Proxy: 🎓 known
-  - Chain of Responsibility
-  - Command
-  - Iterator: 🖐️ used
-  - State: 👂 heard
+  - Factory Method: e
+  - Abstract Factory: e
+  - Adapter: e
+  - Observer: e
+  - Strategy: k
+  - Facade: k
+  - Proxy: u
+  - Chain of Responsibility h
+  - Command k
+  - Iterator: e
+  - State: k
   - Bridge
-  - Builder: 🎓 known
-  - Prototype: 🖐️ used
+  - Builder: u
+  - Prototype: e
   - Composite
-  - Decorator: 🖐️ used
+  - Decorator: e
   - Flyweight
   - Mediator
   - Memento
-  - Template Method: 👂 heard
+  - Template Method: k
   - Visitor
   - Reactor: 🎓 known
   - Active object
