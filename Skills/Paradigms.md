@@ -85,7 +85,7 @@
   - Mediator
   - Memento
   - Template Method: k
-  - Visitor
-  - Reactor: 🎓 known
-  - Active object
-  - Delegation
+  - Visitor k
+  - Reactor: e
+  - Active object h
+  - Delegation h
