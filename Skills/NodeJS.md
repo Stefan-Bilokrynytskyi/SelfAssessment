@@ -1,8 +1,8 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js: 🎓 known
-  - Stateful and stateless servers: 🎓 known
+  - Strong and weak sides of node.js: e
+  - Stateful and stateless servers: e
   - Nonblocking I/O and blocking code: 🖐️ used
   - Event loop phases: 🎓 known
   - Event loop microtasks and macrotasks: 🖐️ used
@@ -11,33 +11,33 @@
   - I/O-bound, CPU-bound, memory-bound tasks: 👂 heard
   - Interactive applications (close to real-time): 👂 heard
 - Modularity, layers and dependencies
-  - CommonJS modules: 🖐️ used
-  - ECMAScript modules: 🖐️ used
+  - CommonJS modules: e
+  - ECMAScript modules: e
   - Module `node:module`: 🎓 known
   - Caching in CJS and ESM: 🎓 known
   - Modules as singletons: 🎓 known
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`: 🖐️ used
-  - Files `package.json`, `package-lock.json`: 🖐️ used
+  - Dependencies: `npm`, `node_modules`: e
+  - Files `package.json`, `package-lock.json`: e
   - Module-based permissions model: 👂 heard
   - Isolation with modularity: 🖐️ used
-  - Dependency injection: 🖐️ used
-  - DI containers: 🖐️ used
-  - Coupling and cohesion: 👂 heard
+  - Dependency injection: e
+  - DI containers: e
+  - Coupling and cohesion: e
   - Framework agnostic approach: 👂 heard
 - Environment
-  - Command line arguments: 👂 heard
+  - Command line arguments: u
   - Node.js CLI: 🖐️ used
   - Process-based permissions
   - Graceful shutdown
   - Clustering
   - Watch filesystem changes with --watch: 🖐️ used
 - Internal API
-  - Streams API: 👂 heard
-  - Web Streams API: 👂 heard
+  - Streams API: k
+  - Web Streams API: k
   - Crypto API: 🖐️ used
   - Password hashing with crypto.scrypt: 🖐️ used
-  - Web Crypto API: 👂 heard
+  - Web Crypto API: k
   - File system API (sync and async): 🖐️ used
   - Copy folder recursively: 🖐️ used
   - Worker threads: 🎓 known
