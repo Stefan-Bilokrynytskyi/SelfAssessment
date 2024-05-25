@@ -22,9 +22,9 @@
   - Source code: 🙋 explained
   - Object code: 🎓 known
   - Machine code: 🎓 known
-  - Microcode: 👂 heard
+  - Microcode: u
   - Software engineering: 🙋 explained
-  - Decomposition: 🖐️ used
+  - Decomposition: e
   - Control flow: 🎓 known
   - Data flow: 🖐️ used
   - Code reuse: 🖐️ used
@@ -32,28 +32,28 @@
   - Don't repeat yourself (DRY): 🖐️ used
   - KISS principle: 🖐️ used
 - Syntax and concepts
-  - Value: 🖐️ used
-  - Identifier: 🖐️ used
-  - Variable: 🖐️ used
-  - Constant: 🖐️ used
+  - Value: e
+  - Identifier: e
+  - Variable: e
+  - Constant: e
   - Scalar: 🖐️ used
   - Literal: 🖐️ used
-  - Expression: 🖐️ used
-  - Heap: 🎓 known
-  - Function: 🖐️ used
-  - Procedure: 🖐️ used
-  - Method: 🖐️ used
-  - Class: 🖐️ used
-  - Prototype: 🖐️ used
-  - Event: 🖐️ used
-  - Type: 🖐️ used
+  - Expression: e
+  - Heap: e
+  - Function: e
+  - Procedure: e
+  - Method: e
+  - Class: e
+  - Prototype: e
+  - Event: e
+  - Type: e
   - Flag: 🖐️ used
   - Lexical scope: 🙋 explained
   - Code block: 🙋 explained
   - Conditions: 🙋 explained
   - Loops: 🙋 explained
   - Assignment: 🖐️ used
-  - Regular expression: 🖐️ used
+  - Regular expression: e
   - Interface: 🖐️ used
   - Namespaces: 🎓 known
   - Call stack: 🖐️ used
@@ -81,27 +81,27 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature: 🖐️ used
-  - Argument: 🖐️ used
-  - Parameter: 🖐️ used
-  - Pure function: 🖐️ used
-  - Lambda expression: 🖐️ used
-  - Side effects: 🖐️ used
-  - Closure: 🖐️ used
-  - Partial application: 🖐️ used
-  - Currying: 🖐️ used
-  - Higher order: 🖐️ used
-  - Recursion: 🖐️ used
+  - Signature: e
+  - Argument: e
+  - Parameter: e
+  - Pure function: e
+  - Lambda expression: e
+  - Side effects: e
+  - Closure: e
+  - Partial application: e
+  - Currying: e
+  - Higher order: e
+  - Recursion: e
   - Tail call optimisation: 🖐️ used
-  - Callback: 🖐️ used
-  - Listener: 🖐️ used
+  - Callback: e
+  - Listener: e
   - Composition: 🖐️ used
-  - Pipe: 🖐️ used
+  - Pipe: e
   - Memoize: 🙋 explained
-  - Wrapper: 🖐️ used
-  - Functor: 🖐️ used
-  - Monad: 🖐️ used
-  - Monoid: 🎓 known
+  - Wrapper: e
+  - Functor: e
+  - Monad: e
+  - Monoid: u
   - Generator: 🖐️ used
   - Coroutine: 👂 heard
 - Data structures
