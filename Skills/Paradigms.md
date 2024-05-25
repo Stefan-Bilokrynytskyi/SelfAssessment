@@ -10,15 +10,15 @@
   - Object-oriented programming: 🎓 known
   - Object-based programming: 🖐️ used
   - Generic programming: 👂 heard
-  - Concurrent computing: 👂 heard
-  - Asynchronous programming: 🖐️ used
-  - Parallel programming: 🖐️ used
-  - Reactive programming: 👂 heard
+  - Concurrent computing: k
+  - Asynchronous programming: e
+  - Parallel programming: k
+  - Reactive programming: k
   - Functional-reactive (FRP): 👂 heard
   - Automata-based programming: 👂 heard
-  - Domain-specific languages: 👂 heard
+  - Domain-specific languages: k
   - Multi-paradigm programming: 🖐️ used
-  - Metaprogramming: 👂 heard
+  - Metaprogramming: k
   - Actor model
   - Lambda calculus
   - Black box
@@ -42,21 +42,21 @@
   - Abstract class: 🖐️ used
   - Interface: 🖐️ used
   - Encapsulation: 🖐️ used
-  - Hidden class
-  - Object form
+  - Hidden class k
+  - Object form k
   - Instance: 🖐️ used
   - Introspection: 👂 heard
   - Reflection: 👂 heard
   - The diamond problem: 🎓 known
 - GRASP
-  - Information expert: 👂 heard
-  - Creator: 👂 heard
-  - Controller: 👂 heard
-  - Indirection: 👂 heard
+  - Information expert: k
+  - Creator: k
+  - Controller: k
+  - Indirection: k
   - Low coupling: 🎓 known
   - High cohesion: 🎓 known
-  - Protected variations: 👂 heard
-  - Pure fabrication: 👂 heard
+  - Protected variations: k
+  - Pure fabrication: k
 - SOLID
   - Single-responsibility principle (SRP): 🙋 explained
   - Open–closed principle (OCP): 🙋 explained
