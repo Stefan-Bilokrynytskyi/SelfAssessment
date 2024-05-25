@@ -1,22 +1,22 @@
 ## JavaScript
 
 - Language
-  - `Object`u
-  - `Function u`
-  - `Boolean`u
-  - `Number`u
-  - `BigInt`u
-  - `String`u
-  - `Symbol`u
-  - `Infinity u`
-  - `NaN`u
-  - `undefined`u
-  - `null`u
-  - `this`u
+  - `Object` e
+  - `Function` e
+  - `Boolean` e
+  - `Number` e
+  - `BigInt` e
+  - `String` e
+  - `Symbol` e
+  - `Infinity` e
+  - `NaN` e
+  - `undefined` e
+  - `null` e
+  - `this` e
   - `instanceof`: 🖐️ used
-  - `...spread`: 🖐️ used
-  - `...rest`: 🖐️ used
-  - `typeof`: 🖐️ used
+  - `...spread`: e
+  - `...rest`: e
+  - `typeof`: e
   - Destructuring: 🖐️ used
   - Generators: 🖐️ used
   - Iterators: 🖐️ used
@@ -28,7 +28,7 @@
   - Async IIFE: 🖐️ used
   - `global`: 🖐️ used
   - `globalThis`: 🖐️ used
-  - `window`: 🖐️ used
+  - `window`: e
   - Getters and setters: 🖐️ used
   - `__proto__`: 🖐️ used
   - `prototype`: 🖐️ used
@@ -48,8 +48,8 @@
   - `super`: 🖐️ used
   - `eval`: 🖐️ used
   - `static`: 🖐️ used
-  - `Number.parseInt`: 🖐️ used
-  - `Number.parseFloat`: 🖐️ used
+  - `Number.parseInt`: e
+  - `Number.parseFloat`: e
   - Property descriptors: 🖐️ used
   - Sealing properties: 🖐️ used
   - Freezing properties: 🖐️ used
@@ -59,42 +59,42 @@
   - Private class fields: 🖐️ used
   - Private class methods: 🖐️ used
 - Statements
-  - `if`: 🖐️ used
-  - `while`: 🖐️ used
-  - `do..while`: 🖐️ used
-  - `for`: 🖐️ used
-  - `for..in`: 🖐️ used
-  - `for..of`: 🖐️ used
-  - `for await`: 🖐️ used
-  - `throw`: 🖐️ used
-  - `break`: 🖐️ used
-  - `continue`: 🖐️ used
-  - `import`: 🖐️ used
-  - `export`: 🖐️ used
-  - `label`: 🖐️ used
-  - `try..catch`: 🖐️ used
-  - `switch`: 🖐️ used
-  - `class`: 🖐️ used
-  - `extends`: 🖐️ used
-  - `with`: 🖐️ used
-  - `new`: 🖐️ used
+  - `if`: e
+  - `while`: e
+  - `do..while`: e
+  - `for`: e
+  - `for..in`: e
+  - `for..of`: e
+  - `for await`: e
+  - `throw`: e
+  - `break`: e
+  - `continue`: e
+  - `import`: e
+  - `export`: e
+  - `label`: e
+  - `try..catch`: e
+  - `switch`: e
+  - `class`: e
+  - `extends`: e
+  - `with`: e
+  - `new`: e
 - Functions
-  - Arrow function: 🖐️ used
-  - Async function: 🖐️ used
-  - Function declaration: 🖐️ used
-  - Function expression: 🖐️ used
-  - Default parameters: 🖐️ used
-  - Functional object: 🖐️ used
-  - `Function.prototype.call`: 🎓 known
-  - `Function.prototype.bind`: 🖐️ used
-  - `Function.prototype.apply`: 🎓 known
-  - `return`: 🖐️ used
+  - Arrow function: e
+  - Async function: e
+  - Function declaration: e
+  - Function expression: e
+  - Default parameters: e
+  - Functional object: e
+  - `Function.prototype.call`: u
+  - `Function.prototype.bind`: e
+  - `Function.prototype.apply`: u
+  - `return`: e
 - Data structures
-  - `Array`: 🖐️ used
-  - `Map`: 🖐️ used
-  - `Set`: 🖐️ used
-  - `WeakMap`: 🖐️ used
-  - `WeakSet`: 🖐️ used
+  - `Array`: e
+  - `Map`: e
+  - `Set`: e
+  - `WeakMap`: e
+  - `WeakSet`: e
   - Typed arrays: 🎓 known
   - Mixins: 🎓 known
   - `Object.assign`: 🖐️ used
@@ -114,7 +114,7 @@
   - `console`: 🖐️ used
   - Timers: 🖐️ used
 - Infrastructure
-  - V8: 🎓 known
+  - V8: u
   - Node.js: 🖐️ used
   - npm: 🖐️ used
   - prettier: 🖐️ used
