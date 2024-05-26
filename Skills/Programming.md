@@ -22,9 +22,9 @@
   - Source code: 🙋 explained
   - Object code: 🎓 known
   - Machine code: 🎓 known
-  - Microcode: u
+  - Microcode: 🖐️ used
   - Software engineering: 🙋 explained
-  - Decomposition: e
+  - Decomposition: 🙋 explained
   - Control flow: 🎓 known
   - Data flow: 🖐️ used
   - Code reuse: 🖐️ used
@@ -32,28 +32,28 @@
   - Don't repeat yourself (DRY): 🖐️ used
   - KISS principle: 🖐️ used
 - Syntax and concepts
-  - Value: e
-  - Identifier: e
-  - Variable: e
-  - Constant: e
+  - Value: 🙋 explained
+  - Identifier: 🙋 explained
+  - Variable: 🙋 explained
+  - Constant: 🙋 explained
   - Scalar: 🖐️ used
   - Literal: 🖐️ used
-  - Expression: e
-  - Heap: e
-  - Function: e
-  - Procedure: e
-  - Method: e
-  - Class: e
-  - Prototype: e
-  - Event: e
-  - Type: e
+  - Expression: 🙋 explained
+  - Heap: 🙋 explained
+  - Function: 🙋 explained
+  - Procedure: 🙋 explained
+  - Method: 🙋 explained
+  - Class: 🙋 explained
+  - Prototype: 🙋 explained
+  - Event: 🙋 explained
+  - Type: 🙋 explained
   - Flag: 🖐️ used
   - Lexical scope: 🙋 explained
   - Code block: 🙋 explained
   - Conditions: 🙋 explained
   - Loops: 🙋 explained
   - Assignment: 🖐️ used
-  - Regular expression: e
+  - Regular expression: 🙋 explained
   - Interface: 🖐️ used
   - Namespaces: 🎓 known
   - Call stack: 🖐️ used
@@ -81,27 +81,27 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature: e
-  - Argument: e
-  - Parameter: e
-  - Pure function: e
-  - Lambda expression: e
-  - Side effects: e
-  - Closure: e
-  - Partial application: e
-  - Currying: e
-  - Higher order: e
-  - Recursion: e
+  - Signature: 🙋 explained
+  - Argument: 🙋 explained
+  - Parameter: 🙋 explained
+  - Pure function: 🙋 explained
+  - Lambda expression: 🙋 explained
+  - Side effects: 🙋 explained
+  - Closure: 🙋 explained
+  - Partial application: 🙋 explained
+  - Currying: 🙋 explained
+  - Higher order: 🙋 explained
+  - Recursion: 🙋 explained
   - Tail call optimisation: 🖐️ used
-  - Callback: e
-  - Listener: e
+  - Callback: 🙋 explained
+  - Listener: 🙋 explained
   - Composition: 🖐️ used
-  - Pipe: e
+  - Pipe: 🙋 explained
   - Memoize: 🙋 explained
-  - Wrapper: e
-  - Functor: e
-  - Monad: e
-  - Monoid: u
+  - Wrapper: 🙋 explained
+  - Functor: 🙋 explained
+  - Monad: 🙋 explained
+  - Monoid: 🖐️ used
   - Generator: 🖐️ used
   - Coroutine: 👂 heard
 - Data structures

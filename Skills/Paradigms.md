@@ -10,15 +10,15 @@
   - Object-oriented programming: 🎓 known
   - Object-based programming: 🖐️ used
   - Generic programming: 👂 heard
-  - Concurrent computing: k
-  - Asynchronous programming: e
-  - Parallel programming: k
-  - Reactive programming: k
+  - Concurrent computing: 🎓 known
+  - Asynchronous programming: 🙋 explained
+  - Parallel programming: 🎓 known
+  - Reactive programming: 🎓 known
   - Functional-reactive (FRP): 👂 heard
   - Automata-based programming: 👂 heard
-  - Domain-specific languages: k
+  - Domain-specific languages: 🎓 known
   - Multi-paradigm programming: 🖐️ used
-  - Metaprogramming: k
+  - Metaprogramming: 🎓 known
   - Actor model
   - Lambda calculus
   - Black box
@@ -42,21 +42,21 @@
   - Abstract class: 🖐️ used
   - Interface: 🖐️ used
   - Encapsulation: 🖐️ used
-  - Hidden class k
-  - Object form k
+  - Hidden class: 🎓 known
+  - Object form: 🎓 known
   - Instance: 🖐️ used
   - Introspection: 👂 heard
   - Reflection: 👂 heard
   - The diamond problem: 🎓 known
 - GRASP
-  - Information expert: k
-  - Creator: k
-  - Controller: k
-  - Indirection: k
+  - Information expert: 🎓 known
+  - Creator: 🎓 known
+  - Controller: 🎓 known
+  - Indirection: 🎓 known
   - Low coupling: 🎓 known
   - High cohesion: 🎓 known
-  - Protected variations: k
-  - Pure fabrication: k
+  - Protected variations: 🎓 known
+  - Pure fabrication: 🎓 known
 - SOLID
   - Single-responsibility principle (SRP): 🙋 explained
   - Open–closed principle (OCP): 🙋 explained
@@ -65,27 +65,27 @@
   - Dependency inversion principle (DIP): 🖐️ used
 - Patterns
   - Singleton: 🙋 explained
-  - Factory Method: e
-  - Abstract Factory: e
-  - Adapter: e
-  - Observer: e
-  - Strategy: k
-  - Facade: k
-  - Proxy: u
-  - Chain of Responsibility h
-  - Command k
-  - Iterator: e
-  - State: k
+  - Factory Method: 🙋 explained
+  - Abstract Factory: 🙋 explained
+  - Adapter: 🙋 explained
+  - Observer: 🙋 explained
+  - Strategy: 🎓 known
+  - Facade: 🎓 known
+  - Proxy: 🖐️ used
+  - Chain of Responsibility: 👂 heard
+  - Command: 🎓 known
+  - Iterator: 🙋 explained
+  - State: 🎓 known
   - Bridge
-  - Builder: u
-  - Prototype: e
+  - Builder: 🖐️ used
+  - Prototype: 🙋 explained
   - Composite
-  - Decorator: e
+  - Decorator: 🙋 explained
   - Flyweight
   - Mediator
   - Memento
-  - Template Method: k
-  - Visitor k
-  - Reactor: e
-  - Active object h
-  - Delegation h
+  - Template Method: 🎓 known
+  - Visitor: 🎓 known
+  - Reactor: 🙋 explained
+  - Active object: 👂 heard
+  - Delegation: 👂 heard

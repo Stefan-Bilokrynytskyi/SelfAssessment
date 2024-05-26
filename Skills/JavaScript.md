@@ -1,22 +1,22 @@
 ## JavaScript
 
 - Language
-  - `Object` e
-  - `Function` e
-  - `Boolean` e
-  - `Number` e
-  - `BigInt` e
-  - `String` e
-  - `Symbol` e
-  - `Infinity` e
-  - `NaN` e
-  - `undefined` e
-  - `null` e
-  - `this` e
+  - `Object`: 🙋 explained
+  - `Function`: 🙋 explained
+  - `Boolean`: 🙋 explained
+  - `Number`: 🙋 explained
+  - `BigInt`: 🙋 explained
+  - `String`: 🙋 explained
+  - `Symbol`: 🙋 explained
+  - `Infinity`: 🙋 explained
+  - `NaN`: 🙋 explained
+  - `undefined`: 🙋 explained
+  - `null`: 🙋 explained
+  - `this`: 🙋 explained
   - `instanceof`: 🖐️ used
-  - `...spread`: e
-  - `...rest`: e
-  - `typeof`: e
+  - `...spread`: 🙋 explained
+  - `...rest`: 🙋 explained
+  - `typeof`: 🙋 explained
   - Destructuring: 🖐️ used
   - Generators: 🖐️ used
   - Iterators: 🖐️ used
@@ -28,7 +28,7 @@
   - Async IIFE: 🖐️ used
   - `global`: 🖐️ used
   - `globalThis`: 🖐️ used
-  - `window`: e
+  - `window`: 🙋 explained
   - Getters and setters: 🖐️ used
   - `__proto__`: 🖐️ used
   - `prototype`: 🖐️ used
@@ -48,8 +48,8 @@
   - `super`: 🖐️ used
   - `eval`: 🖐️ used
   - `static`: 🖐️ used
-  - `Number.parseInt`: e
-  - `Number.parseFloat`: e
+  - `Number.parseInt`: 🙋 explained
+  - `Number.parseFloat`: 🙋 explained
   - Property descriptors: 🖐️ used
   - Sealing properties: 🖐️ used
   - Freezing properties: 🖐️ used
@@ -59,42 +59,42 @@
   - Private class fields: 🖐️ used
   - Private class methods: 🖐️ used
 - Statements
-  - `if`: e
-  - `while`: e
-  - `do..while`: e
-  - `for`: e
-  - `for..in`: e
-  - `for..of`: e
-  - `for await`: e
-  - `throw`: e
-  - `break`: e
-  - `continue`: e
-  - `import`: e
-  - `export`: e
-  - `label`: e
-  - `try..catch`: e
-  - `switch`: e
-  - `class`: e
-  - `extends`: e
-  - `with`: e
-  - `new`: e
+  - `if`: 🙋 explained
+  - `while`: 🙋 explained
+  - `do..while`: 🙋 explained
+  - `for`: 🙋 explained
+  - `for..in`: 🙋 explained
+  - `for..of`: 🙋 explained
+  - `for await`: 🙋 explained
+  - `throw`: 🙋 explained
+  - `break`: 🙋 explained
+  - `continue`: 🙋 explained
+  - `import`: 🙋 explained
+  - `export`: 🙋 explained
+  - `label`: 🙋 explained
+  - `try..catch`: 🙋 explained
+  - `switch`: 🙋 explained
+  - `class`: 🙋 explained
+  - `extends`: 🙋 explained
+  - `with`: 🙋 explained
+  - `new`: 🙋 explained
 - Functions
-  - Arrow function: e
-  - Async function: e
-  - Function declaration: e
-  - Function expression: e
-  - Default parameters: e
-  - Functional object: e
-  - `Function.prototype.call`: u
-  - `Function.prototype.bind`: e
-  - `Function.prototype.apply`: u
-  - `return`: e
+  - Arrow function: 🙋 explained
+  - Async function: 🙋 explained
+  - Function declaration: 🙋 explained
+  - Function expression: 🙋 explained
+  - Default parameters: 🙋 explained
+  - Functional object: 🙋 explained
+  - `Function.prototype.call`: 🖐️ used
+  - `Function.prototype.bind`: 🙋 explained
+  - `Function.prototype.apply`: 🖐️ used
+  - `return`: 🙋 explained
 - Data structures
-  - `Array`: e
-  - `Map`: e
-  - `Set`: e
-  - `WeakMap`: e
-  - `WeakSet`: e
+  - `Array`: 🙋 explained
+  - `Map`: 🙋 explained
+  - `Set`: 🙋 explained
+  - `WeakMap`: 🙋 explained
+  - `WeakSet`: 🙋 explained
   - Typed arrays: 🎓 known
   - Mixins: 🎓 known
   - `Object.assign`: 🖐️ used
@@ -114,7 +114,7 @@
   - `console`: 🖐️ used
   - Timers: 🖐️ used
 - Infrastructure
-  - V8: u
+  - V8: 🖐️ used
   - Node.js: 🖐️ used
   - npm: 🖐️ used
   - prettier: 🖐️ used
