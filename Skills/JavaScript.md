@@ -1,22 +1,22 @@
 ## JavaScript
 
 - Language
-  - `Object`u
-  - `Function u`
-  - `Boolean`u
-  - `Number`u
-  - `BigInt`u
-  - `String`u
-  - `Symbol`u
-  - `Infinity u`
-  - `NaN`u
-  - `undefined`u
-  - `null`u
-  - `this`u
+  - `Object`: 🙋 explained
+  - `Function`: 🙋 explained
+  - `Boolean`: 🙋 explained
+  - `Number`: 🙋 explained
+  - `BigInt`: 🙋 explained
+  - `String`: 🙋 explained
+  - `Symbol`: 🙋 explained
+  - `Infinity`: 🙋 explained
+  - `NaN`: 🙋 explained
+  - `undefined`: 🙋 explained
+  - `null`: 🙋 explained
+  - `this`: 🙋 explained
   - `instanceof`: 🖐️ used
-  - `...spread`: 🖐️ used
-  - `...rest`: 🖐️ used
-  - `typeof`: 🖐️ used
+  - `...spread`: 🙋 explained
+  - `...rest`: 🙋 explained
+  - `typeof`: 🙋 explained
   - Destructuring: 🖐️ used
   - Generators: 🖐️ used
   - Iterators: 🖐️ used
@@ -28,7 +28,7 @@
   - Async IIFE: 🖐️ used
   - `global`: 🖐️ used
   - `globalThis`: 🖐️ used
-  - `window`: 🖐️ used
+  - `window`: 🙋 explained
   - Getters and setters: 🖐️ used
   - `__proto__`: 🖐️ used
   - `prototype`: 🖐️ used
@@ -48,8 +48,8 @@
   - `super`: 🖐️ used
   - `eval`: 🖐️ used
   - `static`: 🖐️ used
-  - `Number.parseInt`: 🖐️ used
-  - `Number.parseFloat`: 🖐️ used
+  - `Number.parseInt`: 🙋 explained
+  - `Number.parseFloat`: 🙋 explained
   - Property descriptors: 🖐️ used
   - Sealing properties: 🖐️ used
   - Freezing properties: 🖐️ used
@@ -59,42 +59,42 @@
   - Private class fields: 🖐️ used
   - Private class methods: 🖐️ used
 - Statements
-  - `if`: 🖐️ used
-  - `while`: 🖐️ used
-  - `do..while`: 🖐️ used
-  - `for`: 🖐️ used
-  - `for..in`: 🖐️ used
-  - `for..of`: 🖐️ used
-  - `for await`: 🖐️ used
-  - `throw`: 🖐️ used
-  - `break`: 🖐️ used
-  - `continue`: 🖐️ used
-  - `import`: 🖐️ used
-  - `export`: 🖐️ used
-  - `label`: 🖐️ used
-  - `try..catch`: 🖐️ used
-  - `switch`: 🖐️ used
-  - `class`: 🖐️ used
-  - `extends`: 🖐️ used
-  - `with`: 🖐️ used
-  - `new`: 🖐️ used
+  - `if`: 🙋 explained
+  - `while`: 🙋 explained
+  - `do..while`: 🙋 explained
+  - `for`: 🙋 explained
+  - `for..in`: 🙋 explained
+  - `for..of`: 🙋 explained
+  - `for await`: 🙋 explained
+  - `throw`: 🙋 explained
+  - `break`: 🙋 explained
+  - `continue`: 🙋 explained
+  - `import`: 🙋 explained
+  - `export`: 🙋 explained
+  - `label`: 🙋 explained
+  - `try..catch`: 🙋 explained
+  - `switch`: 🙋 explained
+  - `class`: 🙋 explained
+  - `extends`: 🙋 explained
+  - `with`: 🙋 explained
+  - `new`: 🙋 explained
 - Functions
-  - Arrow function: 🖐️ used
-  - Async function: 🖐️ used
-  - Function declaration: 🖐️ used
-  - Function expression: 🖐️ used
-  - Default parameters: 🖐️ used
-  - Functional object: 🖐️ used
-  - `Function.prototype.call`: 🎓 known
-  - `Function.prototype.bind`: 🖐️ used
-  - `Function.prototype.apply`: 🎓 known
-  - `return`: 🖐️ used
+  - Arrow function: 🙋 explained
+  - Async function: 🙋 explained
+  - Function declaration: 🙋 explained
+  - Function expression: 🙋 explained
+  - Default parameters: 🙋 explained
+  - Functional object: 🙋 explained
+  - `Function.prototype.call`: 🖐️ used
+  - `Function.prototype.bind`: 🙋 explained
+  - `Function.prototype.apply`: 🖐️ used
+  - `return`: 🙋 explained
 - Data structures
-  - `Array`: 🖐️ used
-  - `Map`: 🖐️ used
-  - `Set`: 🖐️ used
-  - `WeakMap`: 🖐️ used
-  - `WeakSet`: 🖐️ used
+  - `Array`: 🙋 explained
+  - `Map`: 🙋 explained
+  - `Set`: 🙋 explained
+  - `WeakMap`: 🙋 explained
+  - `WeakSet`: 🙋 explained
   - Typed arrays: 🎓 known
   - Mixins: 🎓 known
   - `Object.assign`: 🖐️ used
@@ -114,7 +114,7 @@
   - `console`: 🖐️ used
   - Timers: 🖐️ used
 - Infrastructure
-  - V8: 🎓 known
+  - V8: 🖐️ used
   - Node.js: 🖐️ used
   - npm: 🖐️ used
   - prettier: 🖐️ used

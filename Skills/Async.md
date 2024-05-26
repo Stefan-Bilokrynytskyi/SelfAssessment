@@ -6,29 +6,29 @@
   - Non-blocking: 🖐️ used
   - Async I/O: 🖐️ used
   - Thread pool: 🖐️ used
-  - Pattern Reactor: 👂 heard
+  - Pattern Reactor: 🖐️ used
   - CAS operations: 👂 heard
-  - epoll
-  - kqueue
-  - Completion ports
-  - Event ports
-  - libuv: 👂 heard
-  - Race conditions: 👂 heard
-  - Dead locks: 👂 heard
-  - Live locks: 👂 heard
+  - epoll: 👂 heard
+  - kqueue: 👂 heard
+  - Completion portsh
+  - Event ports: 👂 heard
+  - libuv: 🖐️ used
+  - Race conditions: 🖐️ used
+  - Dead locks: 🎓 known
+  - Live locks: 🎓 known
   - Concurrent programming: 👂 heard
   - Parallel programming: 🎓 known
   - Actor Model: 👂 heard
   - Thread: 🖐️ used
-  - Process: 🖐️ used
+  - Process: 🙋 explained
 - Async contracts
   - Callbacks: 🖐️ used
   - Callback-last-error-first: 🖐️ used
   - Thenable: 🖐️ used
   - Promise: 🖐️ used
   - Async/await: 🖐️ used
-  - Future
-  - Deferred
+  - Future: 👂 heard
+  - Deferred: 👂 heard
   - Sync generator: 🖐️ used
   - Async Generator: 🖐️ used
   - Async Iterator: 🖐️ used
@@ -48,10 +48,10 @@
   - Async compose: 👂 heard
 - Async abstractions interfaces
   - EventEmitter: 🖐️ used
-  - Observable/Observer: 🎓 known
-  - Readable: 👂 heard
-  - Writable: 👂 heard
-  - Transform
+  - Observable/Observer: 🖐️ used
+  - Readable: 🎓 known
+  - Writable: 🎓 known
+  - Transform: 👂 heard
   - Async Pool: 🎓 known
   - Async Queue: 🎓 known
   - Async Collector: 🎓 known
@@ -62,7 +62,7 @@
   - Timers: 🖐️ used
   - `setImmediate`: 🖐️ used
   - `nextTick`: 🖐️ used
-  - AbortController: 🎓 known
+  - AbortController: 🖐️ used
   - AbortSignal: 🎓 known
   - Promise unhandled rejection: 👂 heard
   - Promise double resolve: 👂 heard
@@ -79,10 +79,10 @@
 - Techniques
   - Async.js library: 🎓 known
   - RxJS library: 🎓 known
-  - Promise.all: 🖐️ used
-  - Promise.allSettled: 🖐️ used
-  - Promise.race: 🖐️ used
-  - Promise.any: 🖐️ used
+  - Promise.all: 🙋 explained
+  - Promise.allSettled: 🙋 explained
+  - Promise.race: 🙋 explained
+  - Promise.any: 🙋 explained
   - Web Locks API
   - IPC
   - Channel API

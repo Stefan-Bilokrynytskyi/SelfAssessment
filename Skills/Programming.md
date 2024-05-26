@@ -22,9 +22,9 @@
   - Source code: 🙋 explained
   - Object code: 🎓 known
   - Machine code: 🎓 known
-  - Microcode: 👂 heard
+  - Microcode: 🖐️ used
   - Software engineering: 🙋 explained
-  - Decomposition: 🖐️ used
+  - Decomposition: 🙋 explained
   - Control flow: 🎓 known
   - Data flow: 🖐️ used
   - Code reuse: 🖐️ used
@@ -32,28 +32,28 @@
   - Don't repeat yourself (DRY): 🖐️ used
   - KISS principle: 🖐️ used
 - Syntax and concepts
-  - Value: 🖐️ used
-  - Identifier: 🖐️ used
-  - Variable: 🖐️ used
-  - Constant: 🖐️ used
+  - Value: 🙋 explained
+  - Identifier: 🙋 explained
+  - Variable: 🙋 explained
+  - Constant: 🙋 explained
   - Scalar: 🖐️ used
   - Literal: 🖐️ used
-  - Expression: 🖐️ used
-  - Heap: 🎓 known
-  - Function: 🖐️ used
-  - Procedure: 🖐️ used
-  - Method: 🖐️ used
-  - Class: 🖐️ used
-  - Prototype: 🖐️ used
-  - Event: 🖐️ used
-  - Type: 🖐️ used
+  - Expression: 🙋 explained
+  - Heap: 🙋 explained
+  - Function: 🙋 explained
+  - Procedure: 🙋 explained
+  - Method: 🙋 explained
+  - Class: 🙋 explained
+  - Prototype: 🙋 explained
+  - Event: 🙋 explained
+  - Type: 🙋 explained
   - Flag: 🖐️ used
   - Lexical scope: 🙋 explained
   - Code block: 🙋 explained
   - Conditions: 🙋 explained
   - Loops: 🙋 explained
   - Assignment: 🖐️ used
-  - Regular expression: 🖐️ used
+  - Regular expression: 🙋 explained
   - Interface: 🖐️ used
   - Namespaces: 🎓 known
   - Call stack: 🖐️ used
@@ -81,27 +81,27 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature: 🖐️ used
-  - Argument: 🖐️ used
-  - Parameter: 🖐️ used
-  - Pure function: 🖐️ used
-  - Lambda expression: 🖐️ used
-  - Side effects: 🖐️ used
-  - Closure: 🖐️ used
-  - Partial application: 🖐️ used
-  - Currying: 🖐️ used
-  - Higher order: 🖐️ used
-  - Recursion: 🖐️ used
+  - Signature: 🙋 explained
+  - Argument: 🙋 explained
+  - Parameter: 🙋 explained
+  - Pure function: 🙋 explained
+  - Lambda expression: 🙋 explained
+  - Side effects: 🙋 explained
+  - Closure: 🙋 explained
+  - Partial application: 🙋 explained
+  - Currying: 🙋 explained
+  - Higher order: 🙋 explained
+  - Recursion: 🙋 explained
   - Tail call optimisation: 🖐️ used
-  - Callback: 🖐️ used
-  - Listener: 🖐️ used
+  - Callback: 🙋 explained
+  - Listener: 🙋 explained
   - Composition: 🖐️ used
-  - Pipe: 🖐️ used
+  - Pipe: 🙋 explained
   - Memoize: 🙋 explained
-  - Wrapper: 🖐️ used
-  - Functor: 🖐️ used
-  - Monad: 🖐️ used
-  - Monoid: 🎓 known
+  - Wrapper: 🙋 explained
+  - Functor: 🙋 explained
+  - Monad: 🙋 explained
+  - Monoid: 🖐️ used
   - Generator: 🖐️ used
   - Coroutine: 👂 heard
 - Data structures

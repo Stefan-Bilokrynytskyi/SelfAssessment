@@ -9,15 +9,15 @@
   - GoF patterns: 👂 heard
   - CQS: 👂 heard
   - Leaking abstractions: 👂 heard
-  - Multiparadigm code: 🖐️ used
+  - Multiparadigm code: 🙋 explained
   - Contract programming: 👂 heard
   - Platform-agnostic: 👂 heard
   - Transport-agnostic: 👂 heard
   - Framework-agnostic: 👂 heard
-  - Code coverage: 🖐️ used
-  - Cohesion: 🖐️ used
-  - Coupling: 🖐️ used
-  - Cyclomatic complexity: 🖐️ used
+  - Code coverage: 🙋 explained
+  - Cohesion: 🙋 explained
+  - Coupling: 🙋 explained
+  - Cyclomatic complexity: 🙋 explained
   - Reliability: 🖐️ used
   - Quality: 🖐️ used
   - Availability: 🖐️ used
@@ -27,15 +27,15 @@
   - Isolation between layer: 🖐️ used
   - Domain-specific language (DSL): 🖐️ used
   - System vs applied code: 🎓 known
-  - Multilayer approach: 👂 heard
+  - Multilayer approach: 🎓 known
   - Hexagonal architecture: 👂 heard
-  - Separation of concerns (SoC): 🖐️ used
+  - Separation of concerns (SoC): 🙋 explained
   - Metaprogramming: 🎓 known
-  - Inversion of control (IoC): 🖐️ used
+  - Inversion of control (IoC): 🙋 explained
   - Dependency injection (DI): 🖐️ used
   - Clean architecture: 🖐️ used
   - Domain-driven design (DDD): 🖐️ used
-  - Pub/sub
+  - Pub/sub: 🎓 known
   - Message brocker: 🖐️ used
   - Agent: 👂 heard
   - Service locator: 👂 heard
@@ -57,7 +57,7 @@
   - PaaS: 👂 heard
   - SaaS: 👂 heard
   - FaaS clouds: 👂 heard
-  - Serverless: 🎓 known
+  - Serverless: 🖐️ used
   - Vendor lock-in: 👂 heard
   - Bus factor: 👂 heard
 - Solution architecture
@@ -76,9 +76,9 @@
   - No-code: 🎓 known
   - Metric
   - Metric abuse
-  - ACID: 🎓 known
+  - ACID: 🖐️ used
   - CAP theorem: 👂 heard
-  - Single source of truth (SSOT): 🎓 known
+  - Single source of truth (SSOT): 🖐️ used
 - Enterprise architecture
   - Understanding business needs: 🎓 known
   - Enterprise strategy: 👂 heard
